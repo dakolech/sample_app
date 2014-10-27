@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <component name="dataSourceStorage">
   <data-source source="LOCAL" name="Rails sample_app: development" uuid="6008794e-0a8b-4152-b547-c0f99867b54a">
-    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+    <database-info product="SQLite" version="3.7.6.3" jdbc-version="2.1" driver-name="SQLiteJDBC" driver-version="native"/>
+    <case-sensitivity plain-identifiers="mixed" quoted-identifiers="mixed"/>
   </data-source>
   <data-source source="LOCAL" name="Rails sample_app: test" uuid="b2cc8a82-c542-4b98-b89a-414c3dc67d2d">
     <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
